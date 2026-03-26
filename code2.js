@@ -33,7 +33,7 @@ btnLoad.addEventListener("click", (e) => {
   if (inn1 > 30 || inn1 < 0) {
     alert("ID không thể thực hiện !! 😪");
   }
-  if (inn2 > 150 || inn2 < 0) {
+  if (inn2 > 130 || inn2 < 0) {
     alert("Password không thể thực hiện!! 😥");
   }
   userId =
